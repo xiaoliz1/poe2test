@@ -1,0 +1,180 @@
+---
+
+- taxonomy: 群晖
+  icon: far fa-star
+  links: 
+    - title: NAS
+      logo: NAS.png
+      url: http://192.168.2.235:5000
+      description: 群晖。
+    - title: Qbittorrent
+      logo: qbittorrent.png
+      url: http://192.168.2.235:8989
+      description:     
+    - title: Transmission
+      logo: transmission.png
+      url: http://192.168.2.235:9091
+      description: 
+    - title: Emby
+      logo: emby.png
+      url: http://192.168.2.235:8096
+      description:           
+
+
+
+- taxonomy: 悠闲娱乐
+  icon: fas fa-film fa-lg
+  list:
+    - term: 社区
+      links:
+        - title: 哔哩哔哩
+          logo: 哔哩哔哩.png
+          url: https://www.bilibili.com/
+          description: Bilibili 视频弹幕网站。
+        - title: nga玩家社区
+          logo: nga.webp
+          url: https://nga.178.com/
+          description: 
+        - title: 微博
+          logo: 微博.png
+          url: https://weibo.com/
+          description: 
+        - title: NodeSeek
+          logo: NodeSeek.png
+          url: https://www.nodeseek.com/
+          description: 
+        - title: 小黑盒
+          logo: 小黑盒.png
+          url: https://www.xiaoheihe.cn/app/bbs/home
+          description:    
+        - title: Youtube
+          logo: youtube.png
+          url: https://www.youtube.com/
+          description:   
+        - title: Github
+          logo: github.png
+          url: https://github.com/
+          description: 
+- taxonomy: 在线工具
+  icon: fas fa-tools fa-lg
+  list:                            
+    - term: 云服务器
+      links:
+        - title: 搬瓦工
+          logo: BandwagonHost.jpg
+          url: https://bwh81.net/clientarea.php
+          description:
+        - title: RackNerd
+          logo: racknerd.jpg
+          url: https://www.racknerd.com/
+          description:                     
+        - title: wap.cc
+          logo: wap.ico
+          url: https://wap.ac/
+          description:                       
+        - title: 阿里云
+          logo: 阿里云.jpg
+          url: https://www.aliyun.com/
+          description: 上云就上阿里云。
+        - title: 腾讯云
+          logo: 腾讯云.webp
+          url: https://cloud.tencent.com/
+          description: 产业智变，云启未来。
+        - title: 华为云
+          logo: 华为云.png
+          url: https://www.huaweicloud.com/
+          description: 提供云计算服务+智能，见未来-华为云。 
+    - term: Docker应用
+      links:
+        - title: Openlist.svg
+          logo: openlist.svg
+          url: https://openlist.996521.xyz/
+          description:                  
+    - term: 在线工具
+      links:
+        - title: AI-deepseek
+          logo: AI.jpeg
+          url: https://assistant.mkeai.com/ui/chat/ee9dd75ac27f5557
+          description:
+        - title: 老汪头
+          logo: github.png
+          url: https://v1.996521.xyz:2206/GWF6ax25311UU2w/
+          description:   
+        - title: Cloudflare
+          logo: cloudflare.png
+          url: https://dash.cloudflare.com/
+          description: 
+        - title: Javbus
+          logo: javbus.png
+          url: https://www.javbus.com/
+          description:      
+        - title: IPv6 连接测试
+          logo: IPv6 连接测试.png
+          url: https://www.test-ipv6.com/
+          description:                   
+        - title: ITDog
+          logo: ITDog.png
+          url: https://www.itdog.cn/
+          description:        
+        - title: tld-list
+          logo: tld-list.ico
+          url: https://zh-hans.tld-list.com/
+          description:                              
+        - title: Greasy Fork
+          logo: ITDog.png
+          url: https://greasyfork.org/zh-CN/
+          description:         
+        - title: faviconextractor
+          logo: faviconextractor.ico
+          url: https://www.faviconextractor.com/
+          description: 网站图标下载                
+    - term: PT下载
+      links:
+        - title: M-Team
+          logo: M-Team.png
+          url: https://kp.m-team.cc/index
+          description:
+        - title: PTTime
+          logo: PTTime.ico
+          url: https://www.pttime.org/index.php
+          description:   
+    - term: 博客
+      links:
+        - title: semyes
+          logo: 博客2.png
+          url: https://blog.196000.xyz/
+          description:          
+        - title: Mereith Blog
+          logo: 博客2.png
+          url: https://www.mereith.com/
+          description:      
+        - title: 科技lion官方博客
+          logo: 博客2.png
+          url: https://blog.kejilion.pro/
+          description:     
+        - title: mack
+          logo: 博客2.png
+          url: https://www.v2ray-agent.com/
+          description:                              
+        - title: 我不是咕咕鸽
+          logo: 博客2.png
+          url: https://blog.laoda.de/
+          description:           
+    - term: Github库
+      links:
+        - title: EasyImage2.0 简单图床
+          logo: github.png
+          url: https://github.com/icret/EasyImages2.0
+          description:  
+        - title: v2ray-agent
+          logo: github.png
+          url: https://github.com/icret/EasyImages2.0
+          description: Xray-core/sing-box 一键脚本快速安装         
+        - title: one_click_script
+          logo: github.png
+          url: https://github.com/jinwyp/one_click_script/blob/master/README2_CN.md
+          description:            
+        - title: tabby
+          logo: github.png
+          url: https://github.com/Eugeny/tabby
+          description:           
