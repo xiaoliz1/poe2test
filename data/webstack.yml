@@ -28,7 +28,7 @@
 - taxonomy: poe2社区
   icon: fas fa-film fa-lg
   list:
-    - term: poe2社区
+    - term: 社区
       links:
         - title: poe2 nga
           logo: nga.webp
@@ -122,33 +122,33 @@
           logo: dend.ico
           url: https://dend.chaozj.com
           description:  支线任务检查工具、中文正则工具    
-        - title: 科技lion官方博客
-          logo: 博客2.png
-          url: https://blog.kejilion.pro/
-          description:     
-        - title: mack
-          logo: 博客2.png
-          url: https://www.v2ray-agent.com/
-          description:                              
-        - title: 我不是咕咕鸽
-          logo: 博客2.png
-          url: https://blog.laoda.de/
-          description:           
-    - term: Github库
-      links:
-        - title: EasyImage2.0 简单图床
+        - title: poe2 正则工具
+          logo: poe2re.ico
+          url: https://poe2re.netlify.app/
+          description:  流放之路2正则工具   
+        - title: 技能宝石
+          logo: poe2gems.png
+          url: https://poe2gems.com/supports
+          description:  英文版                            
+        - title: PathOfBuilding-PoE2
           logo: github.png
-          url: https://github.com/icret/EasyImages2.0
-          description:  
-        - title: v2ray-agent
+          url: https://github.com/PathOfBuildingCommunity/PathOfBuilding-PoE2
+          description:  模拟器         
+        - title: PoeCharm2
           logo: github.png
-          url: https://github.com/icret/EasyImages2.0
-          description: Xray-core/sing-box 一键脚本快速安装         
-        - title: one_click_script
-          logo: github.png
-          url: https://github.com/jinwyp/one_click_script/blob/master/README2_CN.md
-          description:            
-        - title: tabby
-          logo: github.png
-          url: https://github.com/Eugeny/tabby
+          url: https://github.com/Chuanhsing/PoeCharm2
+          description:  poe2模拟器的汉化器
+        - title: poe2 藏身处
+          logo: hideoutshowcase.png
+          url: https://www.hideoutshowcase.com/hideouts
+          description: 藏身处分享     
+        - title: poe2 模拟做装
+          logo: poe2ggg.png
+          url: https://www.poe2ggg.com/CraftingSimulator/simulator.html
+          description:  模拟做装 
+    - term: 网盘文件
+      links:          
+        - title: 文件分享
+          logo: openlist.svg
+          url: https://openlist.996521.xyz
           description:           
