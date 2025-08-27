@@ -1,25 +1,28 @@
 ---
 
-- taxonomy: 群晖
+- taxonomy: 官方相关
   icon: far fa-star
   links: 
-    - title: NAS
-      logo: NAS.png
-      url: http://192.168.2.235:5000
-      description: 群晖。
-    - title: Qbittorrent
-      logo: qbittorrent.png
-      url: http://192.168.2.235:8989
-      description:     
-    - title: Transmission
-      logo: transmission.png
-      url: http://192.168.2.235:9091
-      description: 
-    - title: Emby
-      logo: emby.png
-      url: http://192.168.2.235:8096
-      description:           
-
+    - title: Poe2 国际服
+      logo: Poe2 国际服.png
+      url: https://pathofexile2.com
+      description: 国际服唯一官网
+    - title: 官方论坛
+      logo: Poe2 国际服.png
+      url: https://www.pathofexile.com/forum/view-category/poe2
+      description: poe2官网论坛     
+    - title: poe2市集
+      logo: Poe2 国际服.png
+      url: https://www.pathofexile.com/trade2
+      description: 装备交易网站
+    - title: poe2天梯榜
+      logo: Poe2 国际服.png
+      url: https://pathofexile2.com/ladder/Standard
+      description:  官方玩家排名           
+    - title: poe2皮肤幻化商店
+      logo: Poe2 国际服.png
+      url: https://pathofexile2.com/shop
+      description: 皮肤幻化购买  
 
 
 - taxonomy: 悠闲娱乐
