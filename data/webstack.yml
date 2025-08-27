@@ -25,132 +25,103 @@
       description: 皮肤幻化购买  
 
 
-- taxonomy: 悠闲娱乐
+- taxonomy: poe2社区
   icon: fas fa-film fa-lg
   list:
-    - term: 社区
+    - term: poe2社区
       links:
-        - title: 哔哩哔哩
-          logo: 哔哩哔哩.png
-          url: https://www.bilibili.com/
-          description: Bilibili 视频弹幕网站。
-        - title: nga玩家社区
+        - title: poe2 nga
           logo: nga.webp
-          url: https://nga.178.com/
-          description: 
-        - title: 微博
-          logo: 微博.png
-          url: https://weibo.com/
-          description: 
-        - title: NodeSeek
-          logo: NodeSeek.png
-          url: https://www.nodeseek.com/
-          description: 
-        - title: 小黑盒
-          logo: 小黑盒.png
-          url: https://www.xiaoheihe.cn/app/bbs/home
-          description:    
-        - title: Youtube
-          logo: youtube.png
-          url: https://www.youtube.com/
-          description:   
-        - title: Github
-          logo: github.png
-          url: https://github.com/
-          description: 
-- taxonomy: 在线工具
+          url: https://nga.178.com/thread.php?fid=510481
+          description: nga论坛。
+        - title: poe2 reddit
+          logo: reddit.ico
+          url: https://www.reddit.com/r/pathofexile2builds
+          description: reddit论坛
+        - title: poe2 踩蘑菇
+          logo: 踩蘑菇.png
+          url: https://www.caimogu.cc/circle/449.html
+          description: 踩蘑菇论坛
+        - title: poe2 巴哈姆特
+          logo: 巴哈姆特.png
+          url: https://forum.gamer.com.tw/B.php?bsn=82273
+          description: 台湾论坛
+        - title: poe2 TFT
+          logo: discord.png
+          url: https://discord.gg/gmVxAqfRNZ
+          description: 非官方交易社区   
+- taxonomy: 攻略站、数据库
   icon: fas fa-tools fa-lg
   list:                            
-    - term: 云服务器
+    - term: poe2 编年史
       links:
-        - title: 搬瓦工
-          logo: BandwagonHost.jpg
-          url: https://bwh81.net/clientarea.php
-          description:
-        - title: RackNerd
-          logo: racknerd.jpg
-          url: https://www.racknerd.com/
-          description:                     
-        - title: wap.cc
-          logo: wap.ico
-          url: https://wap.ac/
-          description:                       
-        - title: 阿里云
-          logo: 阿里云.jpg
-          url: https://www.aliyun.com/
-          description: 上云就上阿里云。
-        - title: 腾讯云
-          logo: 腾讯云.webp
-          url: https://cloud.tencent.com/
-          description: 产业智变，云启未来。
-        - title: 华为云
-          logo: 华为云.png
-          url: https://www.huaweicloud.com/
-          description: 提供云计算服务+智能，见未来-华为云。 
-    - term: Docker应用
+        - title: poe2 编年史
+          logo: poe2db.ico
+          url: https://poe2db.tw
+          description:  流放2数据查询
+        - title: poe2 wiki
+          logo: Wikitext.png
+          url: https://www.poe2wiki.net/wiki/Path_of_Exile_2_Wiki
+          description:  流放2数据查询                   
+
+    - term: BD、抄作业
       links:
-        - title: Openlist.svg
-          logo: openlist.svg
-          url: https://openlist.996521.xyz/
-          description:                  
-    - term: 在线工具
+        - title: poe2 忍者网英文版
+          logo: ninja.png
+          url: https://poe.ninja/poe2/builds
+          description: 流放2数据查询                 
+        - title: 忍者网中文版
+          logo: ninja.png
+          url: https://poe.show/poe2/builds
+          description: 流放2数据查询
+        - title: 暗黑盒
+          logo: d2core.png
+          url: https://www.d2core.com/poe2/builds
+          description: 抄作业  
+        - title: poe2 reddit BD
+          logo: reddit-copy.png
+          url: https://www.reddit.com/r/pathofexile2builds
+          description: reddit论坛
+    - term: 过滤器、查价器
       links:
-        - title: AI-deepseek
-          logo: AI.jpeg
-          url: https://assistant.mkeai.com/ui/chat/ee9dd75ac27f5557
-          description:
-        - title: 老汪头
-          logo: github.png
-          url: https://v1.996521.xyz:2206/GWF6ax25311UU2w/
-          description:   
-        - title: Cloudflare
-          logo: cloudflare.png
-          url: https://dash.cloudflare.com/
-          description: 
-        - title: Javbus
-          logo: javbus.png
-          url: https://www.javbus.com/
-          description:      
-        - title: IPv6 连接测试
-          logo: IPv6 连接测试.png
-          url: https://www.test-ipv6.com/
-          description:                   
-        - title: ITDog
-          logo: ITDog.png
-          url: https://www.itdog.cn/
-          description:        
-        - title: tld-list
-          logo: tld-list.ico
-          url: https://zh-hans.tld-list.com/
-          description:                              
-        - title: Greasy Fork
-          logo: ITDog.png
-          url: https://greasyfork.org/zh-CN/
+        - title: NeverSink过滤器
+          logo: Poe2 国际服.png
+          url: https://www.pathofexile.com/account/view-profile/NeverSink-3349/item-filters
+          description:  过滤器文件下载   
+        - title: 一乐过滤器
+          logo: 踩蘑菇.png
+          url: https://www.caimogu.cc/post/1619566.html
+          description:  过滤器文件下载                   
+        - title: 文子过滤器
+          logo: 踩蘑菇.png
+          url: https://www.caimogu.cc/post/1618851.html
+          description:  过滤器文件下载        
+        - title: NeverSink自定义过滤器
+          logo: filterblade.png
+          url: https://www.filterblade.xyz/?game=Poe2
+          description:  NeverSink自定义过滤器                            
+        - title: 一乐自定义过滤器
+          logo: filtereditor.png
+          url: https://edit.filtereditor.cn/#/login?redirect=/home/
           description:         
-        - title: faviconextractor
-          logo: faviconextractor.ico
-          url: https://www.faviconextractor.com/
-          description: 网站图标下载                
-    - term: PT下载
+        - title: PoE Overlay II
+          logo: overwolf.ico
+          url: https://www.overwolf.com/app/kyusung4698-poe_overlay_ii
+          description: 查价器               
+        - title: 易刷
+          logo: 踩蘑菇.png
+          url: https://www.caimogu.cc/post/1621584.html
+          description:  查价器
+    - term: 小工具
       links:
-        - title: M-Team
-          logo: M-Team.png
-          url: https://kp.m-team.cc/index
-          description:
-        - title: PTTime
-          logo: PTTime.ico
-          url: https://www.pttime.org/index.php
-          description:   
-    - term: 博客
-      links:
-        - title: semyes
-          logo: 博客2.png
-          url: https://blog.196000.xyz/
-          description:          
-        - title: Mereith Blog
-          logo: 博客2.png
-          url: https://www.mereith.com/
-          description:      
+        - title: poe2 市集汉化
+          logo: poe2db.ico
+          url: https://poe2db.tw/tw/chinese
+          description: 市集汉化         
+        - title: poe2 dend工具箱
+          logo: dend.ico
+          url: https://dend.chaozj.com
+          description:  支线任务检查工具、中文正则工具    
         - title: 科技lion官方博客
           logo: 博客2.png
           url: https://blog.kejilion.pro/
