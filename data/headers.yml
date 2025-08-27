@@ -3,13 +3,9 @@
   link: "./"
 
 
-- item: 命运2导航
+- item: 流放之路2备用站
   icon: fa fa-book
-  link: https://d2.996521.xyz/
-
-- item: 流放之路2导航
-  icon: fa fa-book
-  link: https://poe2.996521.xyz/
+  link: poe2-nav.996521.xyz
 
 #- item: 关于
 #  icon: fa fa-cog
